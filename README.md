@@ -13,4 +13,12 @@ multiplyTwoNumbers(1,2)
 //=>2
 ````
 
+````
+*function* getConfig
+*params* config
+	*name
+	*mail
+	*token
+````
+
 
