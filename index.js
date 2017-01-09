@@ -6,4 +6,6 @@
 	self.getConfig = function(){
 		return self.config;
 	}
+
+	return self;
 })();
