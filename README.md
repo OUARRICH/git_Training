@@ -19,6 +19,7 @@ multiplyTwoNumbers(1,2)
 	*name
 	*mail
 	*token
+	*password
 ````
 
 
