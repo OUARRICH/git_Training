@@ -17,6 +17,7 @@ multiplyTwoNumbers(1,2)
 *function* getConfig
 *params* config
 	*token
+	*password
 ````
 
 
